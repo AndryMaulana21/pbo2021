@@ -9,7 +9,7 @@
  $mahasiswa_andry = new Mahasiswa();
  $mahasiswa_bayu = new Mahasiswa();
  $Mahasiswa_dhiya = new Mahasiswa();
- $dhiya = new Mahasiswa('H1101191053','Andry Maulana','2001-05-28'.'PRIA');
+ $andry = new Mahasiswa('H1101191053','Andry Maulana','2001-05-28'.'PRIA');
 
  $mahasiswa_andry->nim = 1;
  $mahasiswa_andry->nama = 1;
