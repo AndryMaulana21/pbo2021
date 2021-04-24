@@ -1,0 +1,16 @@
+{
+    "name": "acer sf314-56/pbo2021",
+    "description": "Praktikum PBO",
+    "authors": [
+        {
+            "name": "Andry Maulana",
+            "email": "maulanaandry48@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\": "application"
+        }
+    }
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace application\backend;
+namespace App;
 
 class Pegawai
 {
@@ -54,11 +54,3 @@ class Pegawai
 
     }
 }
-
-namespace application\frontend;
-
-class Pegawai
-{
-    
-}
-?>

@@ -1,6 +1,6 @@
 <?php
 
-namespace application\backend;
+namespace App;
 
 class MahasiswaBaru extends Mahasiswa
 {
@@ -27,11 +27,3 @@ class MahasiswaBaru extends Mahasiswa
         
     }
 }
-
-namespace application\frontend;
-
-class Mahasiswa
-{
-    
-}
-?>
